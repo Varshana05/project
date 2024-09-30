@@ -1,0 +1,4 @@
+CORS Handling
+Ensure that the backend server (http://localhost:5000) allows requests from the frontend (http://localhost:3000). This is already handled by the cors middleware in the backend setup.
+#Running the Frontend
+npm start
